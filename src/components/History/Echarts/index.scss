@@ -1,0 +1,19 @@
+.echart-box {
+    margin: 0 auto;
+}
+
+.no-data {
+    text-align: center;
+    padding: 20px;
+
+    .no-card {
+        box-shadow: 5px 5px 5px #ECECEC, 5px -5px 5px #ECECEC, -5px 5px 5px #ECECEC, -5px -5px 5px #ECECEC;
+    }
+
+    img {
+        width: 350px;
+        margin: 0 auto;
+        padding: 95px 0 35px;
+    }
+
+}

@@ -1,0 +1,30 @@
+.most-content {
+    color: red;
+
+    .card-box {
+        display: flex;
+
+        .left-con {
+            flex: 2;
+            display: flex;
+            justify-content: space-around;
+
+            .val {
+                font-size: 40px;
+                font-weight: bold;
+            }
+
+            .icon {
+                font-size: 40px;
+            }
+        }
+
+        .right-con {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+    }
+}
